@@ -1,0 +1,1 @@
+A real-time People Counting System built using Deep Learning, leveraging MobileNet as the backbone and SSD (Single Shot MultiBox Detector) for fast and accurate person detection. This system detects people in images/videos or live camera streams and counts them efficiently, even on low-resource devices.
